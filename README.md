@@ -1,79 +1,60 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi, I'm Adrian 👋</h1>
-<p align="center">
-  Information Systems Student • Backend & Data-Oriented Developer
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
+</div>
+
+<h1 align="center">Hi there, I'm Adrian Ardianto! 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | Tech Enthusiast</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=adrianardianto&label=Profile%20views&color=0e75b6&style=flat" alt="adrianardianto" /> 
 </p>
 
 <p align="center">
-  <a href="mailto:adrianardianto10@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com">LinkedIn</a> •
-  <a href="https://github.com/USERNAME_GITHUB">GitHub</a>
-</p>
-
----
-
-## 👨‍💻 About Me
-I am an Information Systems student with strong interests in backend development, business process modeling, and data-driven systems.  
-Experienced in building academic and practical projects involving system integration, databases, and enterprise-level workflows.
-
-I focus on **clean architecture**, **clear documentation**, and **systems that actually make sense**.
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,flask,java,python,mysql,postgres,git,figma" />
-</p>
-
-**Backend**  
-Laravel, Flask, Java  
-
-**Database & Data**  
-MySQL, PostgreSQL, SQL, Data Warehouse  
-
-**Tools & Design**  
-Git, Looker Studio, Figma, Bizagi, Visual Paradigm  
-
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=default&hide_border=true" />
+  I'm a passionate developer focused on building scalable, responsive, and aesthetically pleasing web applications. 
+  I love exploring new technologies and solving complex problems with code.
 </p>
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech |
-|-------|------------|------|
-| Asset Management System | System for managing enterprise asset data and approval workflows | Laravel, MySQL |
-| Student Registration Platform | Integrated campus information & registration system via API | Laravel, REST API |
-| Food Ordering Microservices | Service-based architecture for food ordering system | Flask, REST, MySQL |
-| Data Warehouse Project | ETL & OLAP implementation using star schema | SQL, Pentaho |
-
----
-
-## 📌 Currently Learning
-- Microservices architecture
-- IT Governance (COBIT, ITIL)
-- Data engineering & ETL pipelines
-
----
-
-## 📫 Contact
-- Email: **adrianardianto10@gmail.com**  
-- GitHub: **https://github.com/USERNAME_GITHUB**
-
----
+### 🛠️ Languages and Tools
 
 <p align="center">
-  <i>Build systems that are readable, scalable, and not embarrassing to maintain.</i>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,react,tailwind,bootstrap,mysql,git,github,vscode,figma,python&theme=dark" />
+    </a>
 </p>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianardianto&theme=tokyonight" alt="Profile Details" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianardianto&theme=tokyonight" alt="Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianardianto&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrian-ardianto-958104235/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrianardianto10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div>
