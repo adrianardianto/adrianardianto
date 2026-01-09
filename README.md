@@ -29,11 +29,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianardianto&theme=tokyonight" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianardianto&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
 </div>
 
 <!-- Snake Animation -->
