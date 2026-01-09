@@ -36,10 +36,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianardianto&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
-<br/>
-
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianardianto&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
