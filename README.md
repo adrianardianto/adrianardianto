@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="auto"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxwanN3ZDNrd2cybXg5cmZ1MHI4aDAzZHAzOXp6dHRmd2VjZ3drcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="600" height="auto"/>
 </div>
 
 <h1 align="center">Hi there, I'm Adrian Ardianto! 👋</h1>
