@@ -34,6 +34,7 @@
 <br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
 </div>
 
 <!-- Snake Animation -->
