@@ -1,98 +1,79 @@
-# 👋 Hi there! I'm Adrian Ardianto
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">Hi, I'm Adrian 👋</h1>
+<p align="center">
+  Information Systems Student • Backend & Data-Oriented Developer
+</p>
 
-🚀 **Software Developer & Tech Enthusiast**  
-Passionate about building innovative solutions and sharing knowledge. Turning ideas into scalable applications with clean code.
+<p align="center">
+  <a href="mailto:adrianardianto10@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com">LinkedIn</a> •
+  <a href="https://github.com/USERNAME_GITHUB">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+I am an Information Systems student with strong interests in backend development, business process modeling, and data-driven systems.  
+Experienced in building academic and practical projects involving system integration, databases, and enterprise-level workflows.
+
+I focus on **clean architecture**, **clear documentation**, and **systems that actually make sense**.
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,flask,java,python,mysql,postgres,git,figma" />
+</p>
+
+**Backend**  
+Laravel, Flask, Java  
+
+**Database & Data**  
+MySQL, PostgreSQL, SQL, Data Warehouse  
+
+**Tools & Design**  
+Git, Looker Studio, Figma, Bizagi, Visual Paradigm  
 
 ---
 
 ## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-<!-- Streak Stats (Otomatis) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=adrianardianto&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=default&hide_border=true" />
+</p>
 
----
-
-## 📈 Activity Graph
-
-<!-- Snake Game Contribution Graph (Otomatis) -->
-![Snake Animation](https://raw.githubusercontent.com/adrianardianto/adrianardianto/output/github-contribution-grid-snake.svg)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianardianto)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adrianardianto)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrianardianto)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian@example.com)
-
----
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+## 🚀 Featured Projects
+| Project | Description | Tech |
+|-------|------------|------|
+| Asset Management System | System for managing enterprise asset data and approval workflows | Laravel, MySQL |
+| Student Registration Platform | Integrated campus information & registration system via API | Laravel, REST API |
+| Food Ordering Microservices | Service-based architecture for food ordering system | Flask, REST, MySQL |
+| Data Warehouse Project | ETL & OLAP implementation using star schema | SQL, Pentaho |
 
 ---
 
-## ⚙️ Setup Instructions
+## 📌 Currently Learning
+- Microservices architecture
+- IT Governance (COBIT, ITIL)
+- Data engineering & ETL pipelines
 
-### Snake Animation Setup
-Buat file `.github/workflows/snake.yml` dengan konten berikut:
+---
 
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+## 📫 Contact
+- Email: **adrianardianto10@gmail.com**  
+- GitHub: **https://github.com/USERNAME_GITHUB**
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
-    steps:
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
-        with:
-          github_user_name: adrianardianto
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          keep_files: true
+---
+
+<p align="center">
+  <i>Build systems that are readable, scalable, and not embarrassing to maintain.</i>
+</p>
