@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Adrian 👋
+Information Systems student with interest in backend systems, data processing, and enterprise applications.
 
-<!--
-**adrianardianto/adrianardianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack
+- Backend: Laravel, Flask, Java
+- Database: MySQL, PostgreSQL
+- Tools: Git, Figma, Looker Studio
 
-Here are some ideas to get you started:
+### Currently Learning
+- Microservices architecture
+- Data warehouse & ETL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact: adrianardianto10@gmail.com
