@@ -29,12 +29,24 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/vue/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" />
+  </picture>
 </div>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-  <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/vue/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/vue/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/adrianardianto/adrianardianto/main/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
+  </picture>
 </div>
 
 <!-- Snake Animation -->
