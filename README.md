@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate developer focused on building scalable, responsive, and aesthetically pleasing web applications. 
-  I love exploring new technologies and solving complex problems with code.
+  I’m a passionate full-stack developer focused on building scalable, responsive, and aesthetically pleasing web applications. I enjoy designing and developing end-to-end systems, from crafting intuitive user interfaces to architecting robust backend services and databases. I love exploring new technologies and solving complex business process challenges through efficient, maintainable, and impactful software solutions.
 </p>
 
 ---
